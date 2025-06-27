@@ -1,5 +1,6 @@
 #GitHub Trending Repositories Scraper
-Description-
+  
+  Description-
 This project contains a Python script that scrapes the top 5 trending repositories from GitHub's trending page (https://github.com/trending) and saves the repository names and their links to a CSV file.
 
 
